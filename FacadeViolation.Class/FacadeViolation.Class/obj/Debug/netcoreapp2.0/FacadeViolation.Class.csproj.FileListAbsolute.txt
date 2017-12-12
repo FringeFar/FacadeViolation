@@ -1,0 +1,11 @@
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/bin/Debug/netcoreapp2.0/FacadeViolation.Class.deps.json
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/bin/Debug/netcoreapp2.0/FacadeViolation.Class.runtimeconfig.json
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/bin/Debug/netcoreapp2.0/FacadeViolation.Class.runtimeconfig.dev.json
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/bin/Debug/netcoreapp2.0/FacadeViolation.Class.dll
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/bin/Debug/netcoreapp2.0/FacadeViolation.Class.pdb
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/obj/Debug/netcoreapp2.0/FacadeViolation.Class.csprojResolveAssemblyReference.cache
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/obj/Debug/netcoreapp2.0/FacadeViolation.Class.csproj.CoreCompileInputs.cache
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/obj/Debug/netcoreapp2.0/FacadeViolation.Class.AssemblyInfoInputs.cache
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/obj/Debug/netcoreapp2.0/FacadeViolation.Class.AssemblyInfo.cs
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/obj/Debug/netcoreapp2.0/FacadeViolation.Class.dll
+/Users/carlosbueno/sources/FacadeViolation/FacadeViolation.Class/FacadeViolation.Class/obj/Debug/netcoreapp2.0/FacadeViolation.Class.pdb
